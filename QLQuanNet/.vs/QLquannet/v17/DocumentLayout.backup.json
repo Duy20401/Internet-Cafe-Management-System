@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\HK6\\PTTKHT\\QLquannet\\QLquannet\\Code\\QLquannet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3563C0CE-DB90-4FDE-B8EA-245FE825C470}|DAL\\DAL.csproj|c:\\hk6\\pttkht\\qlquannet\\qlquannet\\code\\qlquannet\\dal\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3563C0CE-DB90-4FDE-B8EA-245FE825C470}|DAL\\DAL.csproj|solutionrelative:dal\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55710AAA-0F7F-4B2F-B978-EDB6D02DF99A}|QLquannet\\QLquannet.csproj|c:\\hk6\\pttkht\\qlquannet\\qlquannet\\code\\qlquannet\\qlquannet\\frmintakefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{55710AAA-0F7F-4B2F-B978-EDB6D02DF99A}|QLquannet\\QLquannet.csproj|solutionrelative:qlquannet\\frmintakefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55710AAA-0F7F-4B2F-B978-EDB6D02DF99A}|QLquannet\\QLquannet.csproj|C:\\HK6\\PTTKHT\\QLquannet\\QLquannet\\Code\\QLquannet\\qlquannet\\frmintakefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55710AAA-0F7F-4B2F-B978-EDB6D02DF99A}|QLquannet\\QLquannet.csproj|solutionrelative:qlquannet\\frmintakefood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55710AAA-0F7F-4B2F-B978-EDB6D02DF99A}|QLquannet\\QLquannet.csproj|C:\\HK6\\PTTKHT\\QLquannet\\QLquannet\\Code\\QLquannet\\qlquannet\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55710AAA-0F7F-4B2F-B978-EDB6D02DF99A}|QLquannet\\QLquannet.csproj|solutionrelative:qlquannet\\frmmain.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55710AAA-0F7F-4B2F-B978-EDB6D02DF99A}|QLquannet\\QLquannet.csproj|C:\\HK6\\PTTKHT\\QLquannet\\QLquannet\\Code\\QLquannet\\qlquannet\\frmmaintainance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55710AAA-0F7F-4B2F-B978-EDB6D02DF99A}|QLquannet\\QLquannet.csproj|solutionrelative:qlquannet\\frmmaintainance.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55710AAA-0F7F-4B2F-B978-EDB6D02DF99A}|QLquannet\\QLquannet.csproj|C:\\HK6\\PTTKHT\\QLquannet\\QLquannet\\Code\\QLquannet\\qlquannet\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55710AAA-0F7F-4B2F-B978-EDB6D02DF99A}|QLquannet\\QLquannet.csproj|solutionrelative:qlquannet\\frmlogin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55710AAA-0F7F-4B2F-B978-EDB6D02DF99A}|QLquannet\\QLquannet.csproj|C:\\HK6\\PTTKHT\\QLquannet\\QLquannet\\Code\\QLquannet\\qlquannet\\frmfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55710AAA-0F7F-4B2F-B978-EDB6D02DF99A}|QLquannet\\QLquannet.csproj|solutionrelative:qlquannet\\frmfood.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55710AAA-0F7F-4B2F-B978-EDB6D02DF99A}|QLquannet\\QLquannet.csproj|C:\\HK6\\PTTKHT\\QLquannet\\QLquannet\\Code\\QLquannet\\qlquannet\\frmcomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55710AAA-0F7F-4B2F-B978-EDB6D02DF99A}|QLquannet\\QLquannet.csproj|solutionrelative:qlquannet\\frmcomputer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{55710AAA-0F7F-4B2F-B978-EDB6D02DF99A}|QLquannet\\QLquannet.csproj|C:\\HK6\\PTTKHT\\QLquannet\\QLquannet\\Code\\QLquannet\\qlquannet\\frmbilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{55710AAA-0F7F-4B2F-B978-EDB6D02DF99A}|QLquannet\\QLquannet.csproj|solutionrelative:qlquannet\\frmbilling.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmIntakeFood.cs",
+              "DocumentMoniker": "C:\\HK6\\PTTKHT\\QLquannet\\QLquannet\\Code\\QLquannet\\QLquannet\\frmIntakeFood.cs",
+              "RelativeDocumentMoniker": "QLquannet\\frmIntakeFood.cs",
+              "ToolTip": "C:\\HK6\\PTTKHT\\QLquannet\\QLquannet\\Code\\QLquannet\\QLquannet\\frmIntakeFood.cs*",
+              "RelativeToolTip": "QLquannet\\frmIntakeFood.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQBAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T16:02:09.667Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\HK6\\PTTKHT\\QLquannet\\QLquannet\\Code\\QLquannet\\DAL\\Database.cs",
+              "RelativeDocumentMoniker": "DAL\\Database.cs",
+              "ToolTip": "C:\\HK6\\PTTKHT\\QLquannet\\QLquannet\\Code\\QLquannet\\DAL\\Database.cs*",
+              "RelativeToolTip": "DAL\\Database.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T09:34:44.148Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmMain.cs [Design]",
+              "DocumentMoniker": "C:\\HK6\\PTTKHT\\QLquannet\\QLquannet\\Code\\QLquannet\\QLquannet\\frmMain.cs",
+              "RelativeDocumentMoniker": "QLquannet\\frmMain.cs",
+              "ToolTip": "C:\\HUIT\\DoAnHK2_2025\\PTTKHT\\QLquannet\\Code\\QLquannet\\QLquannet\\frmMain.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\HUIT\\DoAnHK2_2025\\PTTKHT\\QLquannet\\Code\\QLquannet\\QLquannet\\frmMain.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T09:33:58.616Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmLogin.cs [Design]",
+              "DocumentMoniker": "C:\\HK6\\PTTKHT\\QLquannet\\QLquannet\\Code\\QLquannet\\QLquannet\\frmLogin.cs",
+              "RelativeDocumentMoniker": "QLquannet\\frmLogin.cs",
+              "ToolTip": "C:\\HUIT\\DoAnHK2_2025\\PTTKHT\\QLquannet\\Code\\QLquannet\\QLquannet\\frmLogin.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\HUIT\\DoAnHK2_2025\\PTTKHT\\QLquannet\\Code\\QLquannet\\QLquannet\\frmLogin.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T09:33:44.717Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmIntakeFood.cs [Design]",
+              "DocumentMoniker": "C:\\HK6\\PTTKHT\\QLquannet\\QLquannet\\Code\\QLquannet\\QLquannet\\frmIntakeFood.cs",
+              "RelativeDocumentMoniker": "QLquannet\\frmIntakeFood.cs",
+              "ToolTip": "C:\\HK6\\PTTKHT\\QLquannet\\QLquannet\\Code\\QLquannet\\QLquannet\\frmIntakeFood.cs [Design]*",
+              "RelativeToolTip": "QLquannet\\frmIntakeFood.cs [Design]*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T09:33:43.041Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "frmFood.cs [Design]",
+              "DocumentMoniker": "C:\\HK6\\PTTKHT\\QLquannet\\QLquannet\\Code\\QLquannet\\QLquannet\\frmFood.cs",
+              "RelativeDocumentMoniker": "QLquannet\\frmFood.cs",
+              "ToolTip": "C:\\HUIT\\DoAnHK2_2025\\PTTKHT\\QLquannet\\Code\\QLquannet\\QLquannet\\frmFood.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\HUIT\\DoAnHK2_2025\\PTTKHT\\QLquannet\\Code\\QLquannet\\QLquannet\\frmFood.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T09:33:41.035Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "frmComputer.cs [Design]",
+              "DocumentMoniker": "C:\\HK6\\PTTKHT\\QLquannet\\QLquannet\\Code\\QLquannet\\QLquannet\\frmComputer.cs",
+              "RelativeDocumentMoniker": "QLquannet\\frmComputer.cs",
+              "ToolTip": "C:\\HUIT\\DoAnHK2_2025\\PTTKHT\\QLquannet\\Code\\QLquannet\\QLquannet\\frmComputer.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\HUIT\\DoAnHK2_2025\\PTTKHT\\QLquannet\\Code\\QLquannet\\QLquannet\\frmComputer.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T09:33:38.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "frmBilling.cs [Design]",
+              "DocumentMoniker": "C:\\HK6\\PTTKHT\\QLquannet\\QLquannet\\Code\\QLquannet\\QLquannet\\frmBilling.cs",
+              "RelativeDocumentMoniker": "QLquannet\\frmBilling.cs",
+              "ToolTip": "C:\\HUIT\\DoAnHK2_2025\\PTTKHT\\QLquannet\\Code\\QLquannet\\QLquannet\\frmBilling.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\HUIT\\DoAnHK2_2025\\PTTKHT\\QLquannet\\Code\\QLquannet\\QLquannet\\frmBilling.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T09:33:35.917Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "frmMaintainance.cs [Design]",
+              "DocumentMoniker": "C:\\HK6\\PTTKHT\\QLquannet\\QLquannet\\Code\\QLquannet\\QLquannet\\frmMaintainance.cs",
+              "RelativeDocumentMoniker": "QLquannet\\frmMaintainance.cs",
+              "ToolTip": "C:\\HUIT\\DoAnHK2_2025\\PTTKHT\\QLquannet\\Code\\QLquannet\\QLquannet\\frmMaintainance.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\HUIT\\DoAnHK2_2025\\PTTKHT\\QLquannet\\Code\\QLquannet\\QLquannet\\frmMaintainance.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-30T08:22:42.527Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 278,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{74946827-37a0-11d2-a273-00c04f8ef4ff}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
